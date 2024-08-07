@@ -12,4 +12,4 @@ https://safefileku.com/download/CsUMJrfUKvnDPLR9
 # Tampilan Script
 <img src="https://raw.githubusercontent.com/ramz-01/GC/main/Screenshot_20240807-190232_1.jpg">
 
-<img src="https://raw.githubusercontent.com/ramz-01/GC/main/Screenshot_20240807-192949_2.jpg">
+<img src="https://raw.githubusercontent.com/ramz-01/GC/main/Screenshot_20240806-205200_3.jpg">
