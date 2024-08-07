@@ -1,10 +1,12 @@
 # GC
-```Hallo Semua ini adalah script untuk mendapatkan cookie dan token facebook```
+Hallo Semua ini adalah script untuk mendapatkan cookie dan token facebook
+
 # Bahan agar tidak error
 ```
 rich
 requests
 ```
+
 # Link download script open source : 
 ```
 https://safefileku.com/download/CsUMJrfUKvnDPLR9
